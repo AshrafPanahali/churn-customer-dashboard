@@ -1,0 +1,301 @@
+customer_id,gender,age,tenure_months,signup_date,contract_type,monthly_charges,total_charges,payment_method,internet_service,phone_service,streaming_service,tech_support,customer_satisfaction,churn
+1001,Male,54,33,2022-05-28,Monthly,75.0,2475.0,Electronic Check,Fiber optic,Yes,No,Yes,2,No
+1002,Female,22,37,2020-01-06,Monthly,79.3,2934.1,Electronic Check,Fiber optic,Yes,No,No,5,No
+1003,Male,40,12,2021-03-21,Monthly,93.7,1124.4,Mailed Check,Fiber optic,Yes,Yes,Yes,5,No
+1004,Male,23,3,2022-08-13,Two-year,73.7,221.1,Electronic Check,Fiber optic,Yes,Yes,No,3,No
+1005,Male,65,1,2019-06-27,Monthly,53.5,53.5,Electronic Check,Fiber optic,No,No,Yes,3,Yes
+1006,Female,47,33,2022-06-12,Monthly,87.8,2897.4,Bank Transfer,No,Yes,Yes,No,2,No
+1007,Male,53,10,2020-11-16,Monthly,55.4,554.0,Electronic Check,DSL,No,Yes,No,1,No
+1008,Male,27,29,2019-02-10,Monthly,32.4,939.6,Bank Transfer,Fiber optic,No,No,Yes,2,Yes
+1009,Male,53,13,2022-01-18,Monthly,88.1,1145.3,Bank Transfer,Fiber optic,Yes,No,Yes,2,Yes
+1010,Female,25,12,2023-09-30,One-year,54.2,650.4,Bank Transfer,Fiber optic,Yes,No,Yes,4,Yes
+1011,Male,32,31,2019-10-25,Monthly,84.2,2610.2,Bank Transfer,No,Yes,No,Yes,4,Yes
+1012,Male,38,2,2024-03-19,Monthly,55.4,110.8,Credit Card,DSL,Yes,No,No,2,No
+1013,Male,59,35,2023-04-20,Monthly,90.3,3160.5,Mailed Check,Fiber optic,Yes,Yes,No,2,No
+1014,Male,45,23,2024-01-12,Monthly,45.4,1044.2,Credit Card,Fiber optic,Yes,No,No,2,No
+1015,Female,26,17,2023-05-02,Two-year,98.2,1669.4,Electronic Check,Fiber optic,Yes,No,No,5,No
+1016,Male,55,26,2021-01-29,Monthly,84.6,2199.6,Credit Card,Fiber optic,Yes,Yes,No,4,No
+1017,Female,27,8,2022-08-20,Monthly,38.0,304.0,Credit Card,Fiber optic,Yes,No,Yes,2,No
+1018,Female,43,29,2023-10-21,Two-year,69.6,2018.4,Electronic Check,Fiber optic,Yes,No,Yes,3,No
+1019,Female,32,26,2023-03-02,Monthly,99.0,2574.0,Electronic Check,Fiber optic,Yes,No,No,3,No
+1020,Male,69,10,2021-10-15,Two-year,63.0,630.0,Electronic Check,DSL,Yes,No,No,5,No
+1021,Female,37,26,2020-04-09,Monthly,42.7,1110.2,Credit Card,Fiber optic,Yes,No,Yes,5,No
+1022,Male,54,34,2021-02-26,One-year,63.9,2172.6,Credit Card,DSL,Yes,No,Yes,1,No
+1023,Female,30,7,2023-06-10,Monthly,65.9,461.3,Electronic Check,Fiber optic,No,Yes,No,1,Yes
+1024,Female,27,4,2020-06-03,One-year,81.9,327.6,Mailed Check,Fiber optic,Yes,No,No,1,No
+1025,Female,37,11,2022-04-09,Monthly,78.9,867.9,Mailed Check,Fiber optic,Yes,Yes,Yes,5,No
+1026,Female,50,29,2023-01-10,Monthly,58.2,1687.8,Bank Transfer,Fiber optic,Yes,Yes,No,5,No
+1027,Female,24,36,2019-03-05,Monthly,45.3,1630.8,Electronic Check,DSL,Yes,Yes,No,5,No
+1028,Female,41,25,2024-04-13,One-year,75.2,1880.0,Bank Transfer,Fiber optic,No,Yes,Yes,3,No
+1029,Female,57,21,2023-08-18,One-year,59.5,1249.5,Mailed Check,Fiber optic,Yes,Yes,Yes,5,No
+1030,Female,40,36,2019-12-29,One-year,39.3,1414.8,Bank Transfer,Fiber optic,No,No,No,3,No
+1031,Male,47,10,2019-08-07,Monthly,93.0,930.0,Electronic Check,No,Yes,No,No,1,No
+1032,Male,24,37,2019-05-07,Two-year,78.4,2900.8,Electronic Check,DSL,Yes,No,Yes,1,No
+1033,Female,40,9,2022-01-03,Monthly,77.8,700.2,Electronic Check,Fiber optic,Yes,Yes,No,1,No
+1034,Female,41,24,2020-04-18,Monthly,87.6,2102.4,Credit Card,Fiber optic,Yes,No,No,2,No
+1035,Female,53,35,2022-05-25,Monthly,67.1,2348.5,Bank Transfer,Fiber optic,Yes,No,No,2,Yes
+1036,Male,28,35,2019-04-27,One-year,87.1,3048.5,Mailed Check,DSL,No,No,No,4,No
+1037,Female,62,36,2020-01-04,Monthly,64.9,2336.4,Mailed Check,DSL,No,Yes,No,4,Yes
+1038,Male,54,18,2022-08-04,Monthly,34.7,624.6,Mailed Check,No,Yes,Yes,No,4,No
+1039,Male,61,39,2024-02-04,One-year,58.4,2277.6,Credit Card,Fiber optic,No,Yes,No,2,No
+1040,Male,60,32,2021-06-28,Monthly,64.8,2073.6,Credit Card,Fiber optic,No,Yes,No,2,Yes
+1041,Male,39,24,2021-08-22,Monthly,80.4,1929.6,Electronic Check,Fiber optic,Yes,Yes,No,4,Yes
+1042,Male,61,23,2022-08-05,Monthly,37.5,862.5,Mailed Check,Fiber optic,Yes,No,No,4,No
+1043,Female,22,32,2022-07-25,Monthly,39.8,1273.6,Credit Card,DSL,Yes,Yes,Yes,5,No
+1044,Female,32,37,2020-02-18,Monthly,48.5,1794.5,Electronic Check,Fiber optic,Yes,Yes,No,4,Yes
+1045,Female,49,12,2021-12-09,Monthly,48.7,584.4,Mailed Check,Fiber optic,Yes,Yes,No,5,No
+1046,Female,46,13,2024-03-25,One-year,81.3,1056.9,Bank Transfer,No,Yes,Yes,Yes,3,Yes
+1047,Female,44,23,2022-01-30,Monthly,47.6,1094.8,Electronic Check,DSL,Yes,Yes,No,2,No
+1048,Male,52,25,2020-09-25,Monthly,74.3,1857.5,Credit Card,Fiber optic,Yes,Yes,No,4,No
+1049,Female,51,35,2020-02-24,One-year,64.6,2261.0,Credit Card,Fiber optic,Yes,Yes,Yes,2,No
+1050,Female,63,30,2024-02-06,Monthly,70.1,2103.0,Electronic Check,Fiber optic,No,No,Yes,2,No
+1051,Male,56,17,2019-04-22,Monthly,88.7,1507.9,Electronic Check,Fiber optic,No,No,Yes,2,No
+1052,Female,28,20,2023-08-20,Monthly,58.3,1166.0,Credit Card,Fiber optic,Yes,Yes,Yes,3,No
+1053,Male,37,25,2019-08-22,Monthly,84.0,2100.0,Bank Transfer,Fiber optic,No,Yes,No,1,Yes
+1054,Female,47,22,2023-07-31,Monthly,59.5,1309.0,Mailed Check,Fiber optic,Yes,No,Yes,4,Yes
+1055,Male,69,13,2023-01-31,Two-year,54.8,712.4,Bank Transfer,Fiber optic,Yes,Yes,No,1,Yes
+1056,Female,23,19,2022-02-04,One-year,97.1,1844.9,Electronic Check,No,Yes,Yes,No,1,No
+1057,Female,22,36,2023-01-05,Monthly,42.9,1544.4,Bank Transfer,Fiber optic,Yes,No,No,1,No
+1058,Male,69,12,2021-10-27,Monthly,36.3,435.6,Credit Card,Fiber optic,Yes,Yes,No,2,No
+1059,Male,33,19,2019-02-15,Monthly,84.0,1596.0,Electronic Check,DSL,Yes,No,Yes,5,No
+1060,Male,26,12,2023-01-22,Two-year,34.8,417.6,Mailed Check,No,Yes,No,No,2,No
+1061,Male,58,9,2019-01-15,Monthly,88.6,797.4,Credit Card,DSL,Yes,Yes,Yes,2,No
+1062,Male,53,7,2020-04-01,Monthly,60.6,424.2,Credit Card,DSL,Yes,Yes,No,1,No
+1063,Male,30,28,2021-01-30,Monthly,94.1,2634.8,Mailed Check,DSL,Yes,No,No,2,No
+1064,Male,62,14,2019-07-07,Monthly,80.5,1127.0,Mailed Check,Fiber optic,Yes,Yes,Yes,1,No
+1065,Male,56,31,2023-07-28,Two-year,72.7,2253.7,Bank Transfer,DSL,Yes,Yes,Yes,5,No
+1066,Female,40,19,2020-05-25,Monthly,96.5,1833.5,Electronic Check,DSL,Yes,No,No,4,No
+1067,Female,69,16,2023-08-27,One-year,57.8,924.8,Mailed Check,DSL,Yes,No,No,1,Yes
+1068,Male,37,5,2019-11-18,Monthly,96.8,484.0,Mailed Check,DSL,Yes,Yes,No,5,No
+1069,Female,24,35,2022-06-30,One-year,39.5,1382.5,Electronic Check,Fiber optic,Yes,No,Yes,4,No
+1070,Female,41,12,2023-02-16,Monthly,63.9,766.8,Mailed Check,Fiber optic,Yes,Yes,No,3,Yes
+1071,Female,45,25,2024-04-07,Monthly,48.9,1222.5,Mailed Check,Fiber optic,Yes,No,Yes,1,No
+1072,Female,54,21,2020-07-24,One-year,67.8,1423.8,Bank Transfer,Fiber optic,Yes,No,No,1,Yes
+1073,Male,45,36,2024-02-13,Two-year,41.3,1486.8,Credit Card,Fiber optic,Yes,No,No,3,No
+1074,Female,32,23,2022-03-04,Two-year,88.9,2044.7,Credit Card,DSL,Yes,Yes,No,3,Yes
+1075,Male,29,16,2022-09-09,Monthly,89.2,1427.2,Credit Card,Fiber optic,Yes,No,No,1,No
+1076,Female,57,39,2023-05-21,Two-year,96.9,3779.1,Credit Card,No,Yes,Yes,Yes,3,No
+1077,Female,59,39,2023-01-23,Monthly,40.8,1591.2,Mailed Check,Fiber optic,Yes,No,No,2,No
+1078,Female,61,14,2021-11-15,Two-year,73.6,1030.4,Electronic Check,DSL,Yes,Yes,No,4,No
+1079,Male,41,31,2023-10-22,Monthly,63.2,1959.2,Electronic Check,Fiber optic,Yes,Yes,Yes,4,No
+1080,Female,56,5,2022-09-26,One-year,54.1,270.5,Bank Transfer,Fiber optic,No,Yes,No,4,No
+1081,Male,69,35,2020-03-12,One-year,54.6,1911.0,Bank Transfer,Fiber optic,Yes,No,Yes,2,Yes
+1082,Female,46,23,2020-01-01,One-year,58.9,1354.7,Mailed Check,DSL,Yes,No,No,3,No
+1083,Male,56,29,2023-06-03,Monthly,79.3,2299.7,Electronic Check,DSL,Yes,Yes,No,5,No
+1084,Female,46,11,2020-02-19,Monthly,71.9,790.9,Electronic Check,DSL,Yes,Yes,No,3,No
+1085,Male,50,18,2020-04-12,One-year,62.2,1119.6,Credit Card,No,Yes,No,Yes,1,No
+1086,Male,39,12,2020-12-14,Monthly,35.3,423.6,Mailed Check,Fiber optic,Yes,Yes,No,4,No
+1087,Female,67,9,2019-03-28,Two-year,35.4,318.6,Mailed Check,DSL,Yes,Yes,No,3,No
+1088,Male,39,10,2019-01-26,One-year,30.2,302.0,Credit Card,DSL,Yes,No,No,5,No
+1089,Female,23,17,2021-10-09,Monthly,97.7,1660.9,Mailed Check,Fiber optic,Yes,No,No,1,No
+1090,Female,56,38,2023-05-12,One-year,30.4,1155.2,Mailed Check,DSL,No,No,Yes,2,Yes
+1091,Female,37,7,2023-07-17,Monthly,37.2,260.4,Bank Transfer,DSL,Yes,Yes,No,2,Yes
+1092,Female,62,13,2020-07-20,One-year,52.0,676.0,Electronic Check,No,Yes,Yes,No,5,No
+1093,Female,57,9,2020-02-14,One-year,86.5,778.5,Mailed Check,DSL,Yes,No,No,1,No
+1094,Female,54,27,2020-04-03,Monthly,97.3,2627.1,Bank Transfer,Fiber optic,Yes,No,No,4,Yes
+1095,Female,25,2,2020-12-22,Monthly,85.3,170.6,Electronic Check,No,Yes,No,No,3,No
+1096,Female,54,5,2020-02-18,Two-year,78.3,391.5,Credit Card,Fiber optic,Yes,No,No,1,No
+1097,Female,35,29,2019-03-15,Monthly,66.5,1928.5,Bank Transfer,DSL,Yes,Yes,No,2,No
+1098,Female,42,37,2021-07-02,Monthly,36.1,1335.7,Bank Transfer,DSL,Yes,No,Yes,5,No
+1099,Female,69,38,2021-10-13,Monthly,97.1,3689.8,Electronic Check,No,Yes,Yes,Yes,5,No
+1100,Male,41,19,2024-03-10,Monthly,83.1,1578.9,Credit Card,No,No,Yes,Yes,3,Yes
+1101,Male,29,8,2020-12-26,Monthly,74.7,597.6,Bank Transfer,Fiber optic,Yes,No,Yes,5,No
+1102,Female,28,1,2020-01-18,Monthly,83.1,83.1,Mailed Check,DSL,Yes,Yes,No,5,Yes
+1103,Female,24,22,2019-05-29,Monthly,80.7,1775.4,Mailed Check,Fiber optic,Yes,Yes,No,1,No
+1104,Female,38,17,2022-12-16,One-year,74.6,1268.2,Mailed Check,No,Yes,No,No,4,No
+1105,Female,54,7,2021-02-24,Monthly,98.6,690.2,Credit Card,Fiber optic,Yes,Yes,No,3,No
+1106,Female,69,25,2024-03-08,Monthly,93.2,2330.0,Bank Transfer,No,Yes,No,No,1,No
+1107,Female,33,4,2022-01-10,Monthly,75.3,301.2,Mailed Check,No,Yes,Yes,No,4,No
+1108,Female,43,36,2022-04-27,Monthly,78.5,2826.0,Credit Card,Fiber optic,Yes,No,No,1,No
+1109,Female,43,6,2021-03-05,Monthly,33.6,201.6,Mailed Check,Fiber optic,Yes,Yes,No,1,Yes
+1110,Male,67,31,2024-06-12,One-year,76.9,2383.9,Electronic Check,Fiber optic,Yes,Yes,No,5,No
+1111,Female,51,19,2022-12-17,One-year,33.1,628.9,Bank Transfer,DSL,Yes,No,Yes,4,No
+1112,Male,59,39,2021-09-13,Monthly,71.2,2776.8,Bank Transfer,Fiber optic,No,No,Yes,3,No
+1113,Female,59,27,2023-06-07,Two-year,100.0,2700.0,Credit Card,Fiber optic,Yes,Yes,No,3,No
+1114,Female,66,10,2021-03-03,One-year,68.9,689.0,Credit Card,No,Yes,Yes,No,4,No
+1115,Male,29,26,2023-03-29,Monthly,63.1,1640.6,Bank Transfer,No,No,No,Yes,5,No
+1116,Female,48,19,2021-04-12,Two-year,51.9,986.1,Mailed Check,Fiber optic,Yes,No,No,2,Yes
+1117,Male,48,39,2023-12-31,Two-year,38.4,1497.6,Mailed Check,DSL,No,No,No,1,No
+1118,Female,55,3,2019-07-22,Monthly,81.2,243.6,Electronic Check,DSL,Yes,No,Yes,5,No
+1119,Female,42,13,2022-03-09,Monthly,43.5,565.5,Mailed Check,DSL,No,Yes,Yes,4,Yes
+1120,Male,51,28,2022-06-17,Two-year,38.1,1066.8,Credit Card,Fiber optic,Yes,Yes,No,1,Yes
+1121,Female,54,20,2022-02-23,One-year,59.5,1190.0,Credit Card,Fiber optic,Yes,No,No,3,Yes
+1122,Male,49,28,2024-05-09,Monthly,85.7,2399.6,Mailed Check,No,Yes,Yes,Yes,2,No
+1123,Female,68,8,2024-03-25,One-year,82.2,657.6,Credit Card,Fiber optic,No,Yes,No,3,No
+1124,Male,54,39,2020-12-05,One-year,33.8,1318.2,Bank Transfer,No,No,No,No,4,Yes
+1125,Male,26,1,2023-02-10,One-year,61.9,61.9,Bank Transfer,No,Yes,No,No,1,Yes
+1126,Female,69,3,2019-11-01,One-year,66.6,199.8,Mailed Check,Fiber optic,Yes,No,Yes,4,No
+1127,Female,40,13,2021-05-28,One-year,75.1,976.3,Bank Transfer,No,No,No,Yes,1,No
+1128,Male,25,28,2024-05-06,Monthly,75.5,2114.0,Bank Transfer,Fiber optic,Yes,No,No,5,No
+1129,Female,56,25,2021-11-21,Monthly,55.5,1387.5,Electronic Check,DSL,Yes,Yes,No,2,No
+1130,Female,38,33,2020-11-11,One-year,69.2,2283.6,Electronic Check,Fiber optic,No,Yes,No,5,No
+1131,Female,65,38,2023-12-12,Two-year,63.7,2420.6,Bank Transfer,Fiber optic,Yes,Yes,Yes,5,No
+1132,Male,49,6,2022-09-03,Monthly,91.9,551.4,Mailed Check,Fiber optic,Yes,Yes,No,4,No
+1133,Male,51,32,2023-08-07,Monthly,67.1,2147.2,Electronic Check,Fiber optic,Yes,No,Yes,2,No
+1134,Male,50,21,2020-10-10,One-year,60.9,1278.9,Credit Card,Fiber optic,Yes,Yes,Yes,1,Yes
+1135,Male,67,16,2024-01-31,Monthly,58.3,932.8,Credit Card,Fiber optic,No,Yes,Yes,1,No
+1136,Male,27,21,2021-02-27,One-year,70.1,1472.1,Credit Card,Fiber optic,Yes,Yes,Yes,3,Yes
+1137,Male,56,11,2022-05-09,Two-year,86.3,949.3,Mailed Check,Fiber optic,No,Yes,No,1,No
+1138,Male,62,37,2024-01-13,One-year,67.7,2504.9,Bank Transfer,Fiber optic,Yes,Yes,No,4,No
+1139,Male,58,36,2021-07-23,Monthly,76.3,2746.8,Credit Card,Fiber optic,No,Yes,Yes,5,No
+1140,Male,45,35,2021-07-30,Monthly,81.6,2856.0,Mailed Check,DSL,Yes,Yes,No,5,Yes
+1141,Female,50,19,2021-07-27,Monthly,66.4,1261.6,Electronic Check,Fiber optic,Yes,Yes,Yes,5,No
+1142,Male,67,20,2019-03-11,Monthly,59.9,1198.0,Bank Transfer,DSL,Yes,Yes,No,2,No
+1143,Female,52,18,2023-05-09,Monthly,91.4,1645.2,Electronic Check,Fiber optic,Yes,No,No,1,Yes
+1144,Female,56,14,2020-08-19,Monthly,59.2,828.8,Mailed Check,Fiber optic,Yes,Yes,Yes,4,No
+1145,Female,54,15,2021-02-03,Monthly,62.3,934.5,Credit Card,Fiber optic,No,Yes,No,2,No
+1146,Male,42,31,2019-06-08,Monthly,99.3,3078.3,Credit Card,Fiber optic,Yes,No,Yes,3,No
+1147,Male,53,1,2021-06-01,Monthly,30.0,30.0,Mailed Check,No,Yes,Yes,Yes,4,Yes
+1148,Male,44,3,2022-12-06,Monthly,43.0,129.0,Credit Card,No,Yes,No,Yes,4,Yes
+1149,Male,54,16,2022-12-24,Monthly,56.9,910.4,Bank Transfer,No,Yes,No,No,4,No
+1150,Female,24,23,2023-08-27,One-year,95.3,2191.9,Mailed Check,No,Yes,Yes,No,5,Yes
+1151,Male,39,11,2019-11-08,One-year,34.9,383.9,Electronic Check,DSL,No,No,Yes,4,No
+1152,Male,46,12,2020-06-10,Monthly,30.7,368.4,Mailed Check,DSL,No,Yes,No,1,No
+1153,Male,63,10,2022-08-05,Two-year,33.7,337.0,Bank Transfer,Fiber optic,No,No,No,4,No
+1154,Male,52,32,2023-11-08,Monthly,36.2,1158.4,Bank Transfer,DSL,Yes,Yes,No,5,No
+1155,Male,24,16,2022-03-30,One-year,32.6,521.6,Mailed Check,Fiber optic,Yes,No,No,4,No
+1156,Female,61,8,2024-04-25,Monthly,63.6,508.8,Mailed Check,Fiber optic,Yes,Yes,No,3,Yes
+1157,Male,67,38,2023-01-18,Two-year,70.7,2686.6,Credit Card,Fiber optic,Yes,No,Yes,3,No
+1158,Female,45,12,2020-08-19,One-year,49.0,588.0,Bank Transfer,Fiber optic,No,No,Yes,5,No
+1159,Male,53,24,2023-03-16,One-year,57.9,1389.6,Mailed Check,Fiber optic,Yes,Yes,No,1,No
+1160,Female,68,28,2021-07-18,One-year,36.4,1019.2,Mailed Check,Fiber optic,Yes,Yes,Yes,1,Yes
+1161,Male,43,8,2021-01-25,Monthly,53.5,428.0,Bank Transfer,No,Yes,No,No,2,No
+1162,Male,44,28,2023-08-02,Monthly,66.6,1864.8,Mailed Check,Fiber optic,Yes,No,No,5,No
+1163,Female,23,36,2021-01-06,One-year,81.3,2926.8,Credit Card,No,No,Yes,Yes,4,Yes
+1164,Female,48,26,2023-05-21,Monthly,30.2,785.2,Bank Transfer,DSL,Yes,No,Yes,5,Yes
+1165,Female,63,8,2019-01-29,One-year,62.7,501.6,Credit Card,No,Yes,No,Yes,2,Yes
+1166,Male,23,28,2021-11-14,Monthly,50.8,1422.4,Credit Card,Fiber optic,No,No,No,5,No
+1167,Female,47,28,2022-07-09,Monthly,89.7,2511.6,Credit Card,Fiber optic,Yes,Yes,No,5,Yes
+1168,Male,38,37,2022-01-20,Monthly,80.1,2963.7,Credit Card,DSL,Yes,No,Yes,2,Yes
+1169,Male,61,36,2020-07-28,Monthly,71.2,2563.2,Bank Transfer,Fiber optic,Yes,Yes,Yes,1,No
+1170,Female,54,27,2020-03-03,One-year,49.4,1333.8,Credit Card,DSL,Yes,No,Yes,4,No
+1171,Female,30,17,2021-09-29,Monthly,93.7,1592.9,Credit Card,DSL,Yes,Yes,No,2,Yes
+1172,Male,64,9,2023-09-25,Monthly,33.2,298.8,Mailed Check,Fiber optic,No,Yes,Yes,3,Yes
+1173,Male,69,33,2020-11-05,Monthly,37.7,1244.1,Bank Transfer,Fiber optic,Yes,No,No,1,Yes
+1174,Female,60,20,2020-10-27,Monthly,57.4,1148.0,Bank Transfer,Fiber optic,No,Yes,Yes,3,Yes
+1175,Female,50,13,2020-05-18,One-year,38.7,503.1,Electronic Check,No,Yes,No,Yes,1,No
+1176,Female,63,28,2024-01-01,Monthly,96.9,2713.2,Bank Transfer,Fiber optic,Yes,No,No,4,Yes
+1177,Male,47,29,2019-04-16,Monthly,85.9,2491.1,Bank Transfer,Fiber optic,Yes,No,No,4,Yes
+1178,Male,56,13,2019-07-24,Monthly,48.1,625.3,Electronic Check,DSL,Yes,Yes,No,5,No
+1179,Male,46,35,2023-02-24,One-year,71.2,2492.0,Bank Transfer,Fiber optic,Yes,No,No,3,No
+1180,Male,45,6,2021-03-30,Monthly,98.8,592.8,Bank Transfer,Fiber optic,No,Yes,Yes,1,No
+1181,Male,34,18,2023-09-16,One-year,91.9,1654.2,Bank Transfer,No,Yes,Yes,No,4,No
+1182,Male,28,5,2024-06-23,Two-year,72.1,360.5,Bank Transfer,No,Yes,No,Yes,2,No
+1183,Female,57,25,2019-06-17,Monthly,93.3,2332.5,Electronic Check,Fiber optic,Yes,Yes,Yes,4,No
+1184,Male,66,2,2019-08-22,Monthly,99.2,198.4,Bank Transfer,DSL,Yes,Yes,No,2,No
+1185,Male,41,10,2021-09-01,Monthly,82.0,820.0,Bank Transfer,No,Yes,No,No,1,No
+1186,Male,22,30,2021-09-24,Monthly,34.5,1035.0,Electronic Check,Fiber optic,Yes,Yes,No,4,No
+1187,Female,29,5,2022-11-13,One-year,58.1,290.5,Mailed Check,DSL,Yes,Yes,No,4,Yes
+1188,Male,67,33,2021-10-29,Two-year,88.6,2923.8,Credit Card,DSL,Yes,No,No,1,No
+1189,Male,37,1,2021-05-28,Monthly,46.1,46.1,Mailed Check,Fiber optic,Yes,Yes,Yes,4,Yes
+1190,Female,35,18,2020-12-24,Monthly,88.1,1585.8,Electronic Check,DSL,Yes,No,Yes,2,No
+1191,Male,33,32,2021-06-05,Monthly,38.4,1228.8,Credit Card,No,Yes,No,No,4,No
+1192,Male,44,11,2022-07-04,One-year,33.3,366.3,Electronic Check,Fiber optic,Yes,No,Yes,3,No
+1193,Male,36,21,2023-08-25,Monthly,56.9,1194.9,Electronic Check,DSL,No,No,No,5,Yes
+1194,Male,49,26,2024-02-27,Monthly,32.6,847.6,Bank Transfer,No,Yes,Yes,No,2,No
+1195,Male,55,25,2023-04-16,Two-year,97.0,2425.0,Credit Card,Fiber optic,Yes,Yes,Yes,3,No
+1196,Female,23,22,2020-06-24,One-year,87.8,1931.6,Bank Transfer,Fiber optic,Yes,No,No,1,No
+1197,Female,53,27,2021-02-17,Monthly,86.1,2324.7,Credit Card,DSL,No,No,No,2,No
+1198,Female,44,13,2019-10-27,One-year,74.1,963.3,Electronic Check,DSL,Yes,No,Yes,5,No
+1199,Male,43,33,2020-01-14,One-year,45.1,1488.3,Electronic Check,Fiber optic,Yes,Yes,No,5,No
+1200,Male,46,34,2021-10-01,Monthly,66.3,2254.2,Mailed Check,Fiber optic,No,Yes,No,1,No
+1201,Male,43,35,2024-03-13,Monthly,71.8,2513.0,Credit Card,Fiber optic,Yes,Yes,Yes,1,No
+1202,Female,43,1,2022-04-16,Monthly,66.8,66.8,Bank Transfer,Fiber optic,Yes,No,No,2,Yes
+1203,Male,63,21,2020-09-29,Monthly,48.2,1012.2,Mailed Check,Fiber optic,Yes,Yes,No,4,No
+1204,Male,27,6,2019-11-16,One-year,66.1,396.6,Mailed Check,DSL,Yes,No,Yes,1,No
+1205,Female,36,28,2021-07-23,Two-year,64.4,1803.2,Mailed Check,Fiber optic,No,No,No,4,No
+1206,Male,64,17,2020-08-21,Monthly,99.7,1694.9,Bank Transfer,No,Yes,Yes,Yes,3,Yes
+1207,Female,58,5,2024-02-25,Monthly,92.8,464.0,Mailed Check,Fiber optic,Yes,No,No,5,No
+1208,Female,54,31,2019-06-18,Monthly,62.4,1934.4,Bank Transfer,Fiber optic,Yes,Yes,No,4,No
+1209,Female,29,5,2021-03-08,Monthly,73.6,368.0,Mailed Check,DSL,Yes,No,Yes,5,No
+1210,Male,65,38,2021-04-01,One-year,82.4,3131.2,Bank Transfer,Fiber optic,Yes,No,Yes,4,No
+1211,Male,65,3,2021-10-06,Monthly,32.4,97.2,Electronic Check,Fiber optic,Yes,No,No,3,No
+1212,Male,26,23,2022-02-03,Monthly,92.6,2129.8,Electronic Check,No,Yes,No,No,1,No
+1213,Male,60,37,2019-06-13,Monthly,90.2,3337.4,Electronic Check,Fiber optic,Yes,Yes,No,3,No
+1214,Male,25,37,2020-06-12,One-year,62.0,2294.0,Electronic Check,No,Yes,Yes,Yes,1,Yes
+1215,Male,27,10,2019-07-24,Monthly,57.4,574.0,Electronic Check,Fiber optic,Yes,No,No,1,No
+1216,Male,66,10,2021-08-09,One-year,49.1,491.0,Mailed Check,DSL,Yes,Yes,No,5,No
+1217,Female,53,19,2019-02-01,Monthly,63.4,1204.6,Mailed Check,Fiber optic,Yes,Yes,No,3,No
+1218,Male,51,17,2020-01-08,One-year,33.1,562.7,Mailed Check,DSL,No,Yes,Yes,4,No
+1219,Female,68,21,2023-07-20,One-year,89.7,1883.7,Bank Transfer,DSL,Yes,No,No,3,No
+1220,Male,56,14,2023-03-13,Monthly,32.5,455.0,Bank Transfer,No,Yes,Yes,No,5,Yes
+1221,Male,61,9,2019-02-17,Monthly,53.0,477.0,Bank Transfer,Fiber optic,Yes,No,Yes,1,Yes
+1222,Male,37,1,2022-04-15,Two-year,95.2,95.2,Bank Transfer,Fiber optic,Yes,No,No,5,Yes
+1223,Female,34,13,2022-03-02,Two-year,81.5,1059.5,Electronic Check,DSL,Yes,Yes,Yes,2,Yes
+1224,Female,63,4,2023-10-31,Monthly,49.7,198.8,Electronic Check,Fiber optic,Yes,Yes,No,2,No
+1225,Female,51,1,2022-10-18,Monthly,47.7,47.7,Electronic Check,DSL,Yes,Yes,No,4,Yes
+1226,Female,40,32,2022-06-12,Two-year,30.4,972.8,Credit Card,DSL,Yes,No,Yes,5,No
+1227,Male,38,34,2019-11-21,Monthly,78.7,2675.8,Mailed Check,Fiber optic,Yes,Yes,No,4,No
+1228,Female,40,28,2023-03-11,Monthly,33.4,935.2,Bank Transfer,DSL,Yes,Yes,No,4,No
+1229,Male,49,31,2019-10-15,Two-year,67.3,2086.3,Bank Transfer,Fiber optic,Yes,Yes,Yes,2,No
+1230,Male,47,8,2024-03-27,Monthly,97.3,778.4,Electronic Check,DSL,No,No,No,4,No
+1231,Female,58,39,2023-12-18,Monthly,37.7,1470.3,Bank Transfer,DSL,Yes,Yes,No,2,Yes
+1232,Female,47,26,2021-04-19,Monthly,92.6,2407.6,Bank Transfer,DSL,Yes,No,No,1,No
+1233,Female,44,34,2022-02-07,Monthly,99.4,3379.6,Mailed Check,Fiber optic,Yes,No,Yes,5,Yes
+1234,Female,30,3,2021-12-30,Monthly,34.3,102.9,Electronic Check,Fiber optic,No,Yes,No,4,No
+1235,Female,33,12,2022-12-17,One-year,91.8,1101.6,Mailed Check,Fiber optic,Yes,No,No,2,No
+1236,Female,22,1,2023-08-28,Monthly,66.1,66.1,Credit Card,Fiber optic,No,Yes,Yes,3,Yes
+1237,Female,22,5,2024-03-18,Monthly,93.5,467.5,Credit Card,Fiber optic,Yes,No,No,4,Yes
+1238,Female,68,30,2022-03-11,Monthly,70.0,2100.0,Credit Card,DSL,Yes,No,No,1,No
+1239,Male,55,30,2020-10-21,Monthly,76.3,2289.0,Electronic Check,Fiber optic,No,No,No,1,No
+1240,Female,53,17,2023-09-24,Two-year,68.1,1157.7,Bank Transfer,No,Yes,Yes,No,3,No
+1241,Female,69,23,2021-01-07,Monthly,90.5,2081.5,Electronic Check,Fiber optic,Yes,Yes,No,2,No
+1242,Male,46,15,2020-05-07,Monthly,81.4,1221.0,Electronic Check,Fiber optic,Yes,Yes,No,4,Yes
+1243,Female,61,37,2023-01-24,Two-year,66.5,2460.5,Bank Transfer,No,No,Yes,Yes,2,No
+1244,Male,66,21,2023-01-09,Monthly,90.8,1906.8,Mailed Check,Fiber optic,Yes,Yes,No,1,No
+1245,Male,22,14,2019-10-26,Monthly,47.2,660.8,Credit Card,DSL,Yes,Yes,No,2,No
+1246,Female,37,2,2023-07-24,Monthly,41.0,82.0,Mailed Check,Fiber optic,Yes,Yes,No,1,No
+1247,Male,60,11,2021-04-12,Monthly,41.2,453.2,Credit Card,Fiber optic,Yes,Yes,No,2,No
+1248,Male,26,39,2021-09-03,Monthly,53.4,2082.6,Electronic Check,Fiber optic,Yes,No,No,3,No
+1249,Male,43,38,2023-05-14,Monthly,46.7,1774.6,Credit Card,Fiber optic,No,Yes,No,5,No
+1250,Male,50,34,2019-07-06,One-year,95.1,3233.4,Electronic Check,Fiber optic,No,Yes,No,3,Yes
+1251,Female,24,38,2021-10-24,Monthly,37.4,1421.2,Mailed Check,Fiber optic,No,Yes,No,3,No
+1252,Male,33,34,2020-12-10,Monthly,78.9,2682.6,Electronic Check,Fiber optic,Yes,Yes,No,5,No
+1253,Female,47,18,2021-02-09,One-year,43.2,777.6,Mailed Check,No,Yes,No,Yes,5,Yes
+1254,Male,37,30,2024-04-07,Monthly,91.7,2751.0,Bank Transfer,Fiber optic,Yes,Yes,Yes,4,No
+1255,Male,58,15,2020-08-11,One-year,97.3,1459.5,Bank Transfer,DSL,Yes,No,No,4,No
+1256,Male,43,27,2021-11-16,Monthly,62.6,1690.2,Bank Transfer,Fiber optic,Yes,No,Yes,3,No
+1257,Male,50,34,2019-04-11,Monthly,91.5,3111.0,Electronic Check,DSL,No,No,Yes,3,Yes
+1258,Female,35,38,2023-12-22,One-year,30.4,1155.2,Bank Transfer,Fiber optic,Yes,No,Yes,1,No
+1259,Female,49,33,2021-08-01,Monthly,87.4,2884.2,Credit Card,Fiber optic,Yes,No,Yes,1,Yes
+1260,Male,26,24,2021-09-02,Monthly,46.0,1104.0,Mailed Check,DSL,Yes,No,Yes,4,No
+1261,Male,68,15,2020-05-07,Monthly,93.6,1404.0,Mailed Check,Fiber optic,Yes,No,No,4,Yes
+1262,Female,51,30,2023-08-05,Monthly,30.1,903.0,Credit Card,DSL,Yes,No,Yes,1,No
+1263,Male,67,17,2019-08-21,One-year,68.9,1171.3,Electronic Check,DSL,Yes,No,No,1,No
+1264,Male,26,5,2020-07-02,Monthly,83.0,415.0,Electronic Check,Fiber optic,Yes,No,No,2,No
+1265,Male,33,29,2019-11-13,Monthly,48.1,1394.9,Mailed Check,Fiber optic,Yes,No,No,2,No
+1266,Female,37,4,2023-07-14,Monthly,43.5,174.0,Bank Transfer,No,Yes,Yes,Yes,1,No
+1267,Female,47,10,2021-05-21,One-year,35.9,359.0,Electronic Check,Fiber optic,Yes,Yes,No,2,No
+1268,Female,47,17,2023-08-15,Monthly,52.9,899.3,Electronic Check,Fiber optic,Yes,Yes,No,5,Yes
+1269,Male,69,10,2022-07-17,Two-year,69.2,692.0,Credit Card,Fiber optic,Yes,Yes,No,4,No
+1270,Male,42,17,2023-11-23,Monthly,38.1,647.7,Credit Card,DSL,Yes,Yes,No,4,Yes
+1271,Female,60,20,2022-08-04,One-year,56.4,1128.0,Bank Transfer,No,Yes,Yes,No,1,No
+1272,Female,57,24,2020-03-04,Two-year,30.6,734.4,Electronic Check,Fiber optic,Yes,No,Yes,3,Yes
+1273,Female,54,5,2022-05-07,One-year,87.3,436.5,Electronic Check,Fiber optic,Yes,Yes,No,1,No
+1274,Female,51,34,2021-07-30,Two-year,39.0,1326.0,Credit Card,DSL,No,No,No,2,No
+1275,Male,58,6,2019-03-10,Monthly,49.8,298.8,Electronic Check,Fiber optic,Yes,Yes,No,3,No
+1276,Female,44,2,2020-12-18,Monthly,31.3,62.6,Mailed Check,Fiber optic,Yes,Yes,No,2,Yes
+1277,Male,31,13,2021-02-19,Monthly,60.3,783.9,Credit Card,No,Yes,No,Yes,5,No
+1278,Female,26,11,2023-09-22,Monthly,88.8,976.8,Bank Transfer,DSL,Yes,No,No,2,No
+1279,Male,57,23,2019-04-10,Monthly,57.5,1322.5,Credit Card,Fiber optic,Yes,Yes,Yes,5,No
+1280,Female,55,16,2021-06-28,Monthly,42.6,681.6,Electronic Check,No,Yes,No,Yes,5,No
+1281,Female,52,31,2021-05-24,Monthly,82.8,2566.8,Bank Transfer,Fiber optic,Yes,No,Yes,2,No
+1282,Female,31,11,2022-09-09,Monthly,85.2,937.2,Credit Card,Fiber optic,Yes,Yes,Yes,2,No
+1283,Female,40,16,2019-10-26,Two-year,42.2,675.2,Mailed Check,DSL,Yes,Yes,No,5,No
+1284,Male,53,8,2021-03-21,Monthly,84.0,672.0,Mailed Check,No,Yes,No,Yes,3,No
+1285,Female,22,4,2020-12-18,One-year,96.3,385.2,Credit Card,DSL,Yes,No,Yes,5,No
+1286,Male,26,4,2024-03-10,One-year,41.6,166.4,Mailed Check,Fiber optic,Yes,No,No,4,Yes
+1287,Male,66,25,2022-02-25,Two-year,84.0,2100.0,Mailed Check,Fiber optic,Yes,No,No,5,Yes
+1288,Male,25,3,2019-03-20,One-year,79.6,238.8,Mailed Check,DSL,Yes,Yes,No,3,Yes
+1289,Male,37,32,2019-02-04,One-year,63.2,2022.4,Bank Transfer,Fiber optic,Yes,Yes,No,4,Yes
+1290,Female,45,3,2022-05-17,Two-year,34.1,102.3,Mailed Check,DSL,No,Yes,No,1,No
+1291,Male,37,27,2020-03-03,Two-year,35.2,950.4,Mailed Check,DSL,Yes,No,Yes,1,No
+1292,Male,23,29,2024-05-26,Monthly,89.7,2601.3,Mailed Check,Fiber optic,No,No,Yes,3,Yes
+1293,Male,49,32,2019-04-02,Monthly,99.3,3177.6,Bank Transfer,No,Yes,No,No,5,No
+1294,Female,53,19,2023-02-08,Monthly,77.3,1468.7,Credit Card,Fiber optic,Yes,Yes,Yes,2,Yes
+1295,Female,48,21,2020-09-21,Monthly,61.2,1285.2,Electronic Check,Fiber optic,Yes,Yes,No,3,No
+1296,Female,41,5,2023-10-22,One-year,75.3,376.5,Mailed Check,DSL,Yes,Yes,Yes,4,No
+1297,Female,45,18,2021-12-02,One-year,71.6,1288.8,Credit Card,DSL,Yes,No,Yes,4,No
+1298,Male,33,28,2019-08-02,One-year,56.9,1593.2,Mailed Check,DSL,Yes,No,No,1,Yes
+1299,Male,56,22,2021-12-28,Monthly,34.6,761.2,Bank Transfer,DSL,Yes,Yes,No,4,No
+1300,Female,54,21,2021-03-09,Two-year,87.5,1837.5,Credit Card,Fiber optic,No,No,No,3,No
