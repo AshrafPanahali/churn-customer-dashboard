@@ -1,7 +1,23 @@
 # churn-customer-dashboard
-This project is a full analytical dashboard designed to understand customer churn patterns, identify retention risks, and analyze key behavioral and financial drivers behind customer churn.
-The dashboard is built using Power BI, Power Query, DAX, and the Churn Dataset (CSV).
-It demonstrates essential data analytics skills required for Data Analyst roles.
+This project is a full analytical dashboard designed to understand 
+•	customer churn patterns
+•	identify retention risks
+•	analyze key behavioral 
+•	financial drivers behind customer churn
+
+Tools Used:
+•	Power BI
+•	Power Query
+•	DAX
+•	Churn Dataset (CSV).
+
+How to Use
+1) Download Power BI File
+2) open file in Power Bi Desktop
+3) Connect to CSV file
+
+It demonstrates essential data analytics skills required for Data Analyst roles
+
 ## Dashboard Preview  
 ![Dashboard](post5.jpg)
 
