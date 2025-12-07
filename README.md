@@ -19,5 +19,5 @@ How to Use
 It demonstrates essential data analytics skills required for Data Analyst roles
 
 ## Dashboard Preview  
-![Dashboard](post5.jpg)
+![Dashboard](ChurnCustomer.jpg)
 
