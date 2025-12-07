@@ -13,7 +13,7 @@ Tools Used:
 
 How to Use
 1) Download Power BI File
-2) open file in Power Bi Desktop
+2) open file in Power B] Desktop
 3) Connect to CSV file
 
 It demonstrates essential data analytics skills required for Data Analyst roles
